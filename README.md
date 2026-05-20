@@ -28,3 +28,4 @@ npm run dev
 ## 규칙 및 약속
 - 모든 코드의 주석은 **한글**로 작성합니다.
 - 보안 정보가 담긴 `.env` 파일은 절대 Git에 커밋하지 않습니다. 대신 `.env-sample` 또는 `.env-example` 파일을 활용합니다.
+- AI 에이전트(Antigravity) 작동 규칙 및 적용 방법은 [프로젝트 규칙(GEMINI.md)](GEMINI.md) 문서를 참고해 주세요.

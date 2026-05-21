@@ -50,4 +50,5 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # # 기타
-doc/
+doc/마지막작업*
+doc/html/*
